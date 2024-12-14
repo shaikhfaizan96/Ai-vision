@@ -10,3 +10,4 @@ Visually impaired individuals often face challenges in understanding their surro
 3. 🚧 Object and obstacle detection
 
 4. 🤖 Personalized assistance for tasks
+   

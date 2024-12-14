@@ -1,8 +1,0 @@
-langchain_google_genai
-google-generativeai
-python-dotenv
-pytesseract
-torchvision
-streamlit
-pyttsx3
-torch
